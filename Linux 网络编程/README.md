@@ -10,9 +10,9 @@
 
 # 章节：
 
-[0-5]()
+[0-5. tcpip基础](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/0-5.%20tcpip%E5%9F%BA%E7%A1%80)
 
-[（6）socket编程一：什么是socket ，IPv4套接字地址结构 ，网络字节序 ，字节序转换函数 ，地址转换函数 ，套接字类型]()
+[6. socket编程一：什么是socket ，IPv4套接字地址结构 ，网络字节序 ，字节序转换函数 ，地址转换函数 ，套接字类型](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/6)
 
 
 
