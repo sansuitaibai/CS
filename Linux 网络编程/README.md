@@ -14,7 +14,7 @@
 
 [6. socket编程一：什么是socket ，IPv4套接字地址结构 ，网络字节序 ，字节序转换函数 ，地址转换函数 ，套接字类型](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/6)
 
-[7. socket编程二：TCP客户/服务端模型 ，回射客户/服务器 ，socket，bind，listen，accept，connect](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/7)
+[7. socket编程二：TCP客户/服务端模型 ，回射客户/服务器 ，socket，bind，listen，accept，connect]()
 
 ## 参考：
 
