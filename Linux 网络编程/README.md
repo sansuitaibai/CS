@@ -20,7 +20,7 @@
 
 [9. socket编程四：流协议与粘(nian)包，粘包产生的原因，粘包处理方案，readn，writen 6.回射客户/服务器9](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/9)
 
-
+[10. socket编程(五)：read，write与recv，send ，用readline实现回射客户/服务器 ，getsockname，getpeername ，gethostname](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/10)
 
 ## 参考：
 
