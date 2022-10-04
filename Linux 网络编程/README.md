@@ -18,7 +18,9 @@
 
 [8. socket编程三：处理多客户连接（process-per-connection），点对点聊天程序实现](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/8)
 
-[9. socket编程四：流协议与粘(nian)包，粘包产生的原因，粘包处理方案，readn，writen 6.回射客户/服务器9]()
+[9. socket编程四：流协议与粘(nian)包，粘包产生的原因，粘包处理方案，readn，writen 6.回射客户/服务器9](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/9)
+
+
 
 ## 参考：
 
@@ -32,7 +34,7 @@
 
 
 
-
+* 仅供学习参考， 如有侵权，请联系2657302908@qq.com 删之。
 
 
 
