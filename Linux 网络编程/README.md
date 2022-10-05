@@ -22,6 +22,10 @@
 
 [10. socket编程(五)：read，write与recv，send ，用readline实现回射客户/服务器 ，getsockname，getpeername ，gethostname](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/10)
 
+[11. socket编程（六）：TCP回射客户/服务器、TCP是个流协议、僵进程与SIGCHLD信号](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/11)
+
+[12. socket编程(七)：TCP 11种状态，连接建立三次握手，连接终止四次握手，TIME_WAIT与SO_REUSEADDR，SIGPIPE](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/12)
+
 ## 参考：
 
 [csdn博客](https://jiwangreal.blog.csdn.net/article/details/105882800)
