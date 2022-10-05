@@ -26,6 +26,8 @@
 
 [12. socket编程(七)：TCP 11种状态，连接建立三次握手，连接终止四次握手，TIME_WAIT与SO_REUSEADDR，SIGPIPE](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/12)
 
+[13. socket编程(八)：五种I/O模型，select ，用select改进回射客户端程序](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/13)
+
 ## 参考：
 
 [csdn博客](https://jiwangreal.blog.csdn.net/article/details/105882800)
