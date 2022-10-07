@@ -40,11 +40,11 @@
 
 [19. socket编程（十四）：UDP特点，UDP客户/服务基本模型，UDP回射客户/服务器，UDP注意点](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/19)
 
-[20. socket编程（十五）：UDP聊天室]()
+[20. socket编程（十五）：UDP聊天室](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/20)
 
-[21. 了解即可socket编程：UNIX域协议]()
+[21. 了解即可socket编程：UNIX域协议](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/21)
 
-
+[22. socket编程：socketpair、sendmsg/recvmsg、UNIX域套接字传递描述符字](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/22)
 
 ## 参考：
 
