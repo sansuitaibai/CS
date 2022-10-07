@@ -34,11 +34,11 @@
 
 [16. socket编程（十一）：套接字I/O超时设置方法，用select实现超时](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/16)
 
-[17. socket编程（十二）：select限制，poll]()
+[17. socket编程（十二）：select限制，poll](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/17)
 
-[18. socket编程（十三）：select vs poll，epoll使用，epoll与select、poll的区别，epoll模式：EPOLLLT，EPOLLET]()
+[18. socket编程（十三）：select vs poll，epoll使用，epoll与select、poll的区别，epoll模式：EPOLLLT，EPOLLET](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/18 )
 
-[19. socket编程（十四）：UDP特点，UDP客户/服务基本模型，UDP回射客户/服务器，UDP注意点]()
+[19. socket编程（十四）：UDP特点，UDP客户/服务基本模型，UDP回射客户/服务器，UDP注意点](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/19)
 
 ## 参考：
 
