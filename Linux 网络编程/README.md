@@ -28,6 +28,16 @@
 
 [13. socket编程(八)：五种I/O模型，select ，用select改进回射客户端程序](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/13)
 
+[14. socket编程（九）：select，select函数读，写，异常事件发生条件，用select改进回射服务器程序](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/14)
+
+[15. socke1t编程（十）：close与shutdown ，进一步改进回射客户程序](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/15)
+
+[16. socket编程（十一）：套接字I/O超时设置方法，用select实现超时](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/16)
+
+
+
+
+
 ## 参考：
 
 [csdn博客](https://jiwangreal.blog.csdn.net/article/details/105882800)
@@ -38,7 +48,9 @@
 
 [LearnSocket](https://github.com/Zack-RT/LearnSocket)
 
+[Linux下套接字详解（十）---epoll模式下的IO多路复用服务器](https://kernel.blog.csdn.net/article/details/50979090)
 
+[epoll使用](https://www.cnblogs.com/haippy/archive/2012/01/09/2317269.html)
 
 * 仅供学习参考， 如有侵权，请联系2657302908@qq.com 删之。
 
