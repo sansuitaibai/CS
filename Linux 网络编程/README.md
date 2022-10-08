@@ -46,6 +46,16 @@
 
 [22. socket编程：socketpair、sendmsg/recvmsg、UNIX域套接字传递描述符字](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/22)
 
+[23. 进程间通信介绍一：进程同步与进程互斥 ，进程间通信目的 ，进程间通信发展 ，进程间通信分类 ，进程间共享信息的三种方式 ，IPC对象的持续性]()
+
+[24. 进程间通信介绍二：死锁 ，信号量与PV原语 ，用PV原语解决司机与售票员问题 ，用PV原语解决民航售票问题 ，用PV原语解决汽车租赁问题]()
+
+[25. system v消息队列：消息队列 ，IPC对象数据结构 ，消息队列结构 ，消息队列在内核中的表示 ，消息队列函数]()
+
+[26. system v消息队列：msgsnd函数 ，msgrcv函数]()
+
+[27. system v消息队列：单个消息队列实现回射服务器 ，多个队列解决单个队列的死锁问题]()
+
 ## 参考：
 
 [csdn博客](https://jiwangreal.blog.csdn.net/article/details/105882800)
