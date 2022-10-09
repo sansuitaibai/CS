@@ -3,7 +3,7 @@
 * 前置： 个人学习B站中的视频[Linux网络编程视频教程（41讲）](https://www.bilibili.com/video/BV1eb411F74G?p=1&vd_source=9851bd0835747a55fe320a437e4fd0a9)（[点击此处跳转](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B)）
 
 * 中置：对应本次的学习。《TCP/IP网络编程》书是必须要看的， 作为个人知识的回顾和练习， 视频作为入门学习，当然好的视频另当别论。([点击此处跳转](https://github.com/sansuitaibai/CS/tree/main/TCPIP%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B))
-* 后置： 《Linux高性能服务器编程》 (点击此处跳转)
+* 后置： 《Linux高性能服务器编程》 ([点击此处跳转](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E9%AB%98%E6%80%A7%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%96%E7%A8%8B))
 
 
 
