@@ -56,6 +56,10 @@
 
 [27. system v消息队列：单个消息队列实现回射服务器 ，多个队列解决单个队列的死锁问题](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/27)
 
+[28. 共享内存介绍：共享内存 ，用管道消息队列和共享内存传递数据的对比 ，mmap函数 ，munmap函数 ，msync不常用 ，mmap注意点](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/28)
+
+[29. system v共享内存：共享内存数据结构 ，共享内存函数 ，共享内存](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/29)
+
 ## 参考：
 
 [csdn博客](https://jiwangreal.blog.csdn.net/article/details/105882800)
