@@ -76,6 +76,11 @@
 
 [epoll使用](https://www.cnblogs.com/haippy/archive/2012/01/09/2317269.html)
 
+
+
+# 其他：
+
+* 卷不过各位 ， 且行且珍惜 ， 留下一颗 star 。
 * 仅供学习参考， 如有侵权，请联系2657302908@qq.com 删之。
 
 
