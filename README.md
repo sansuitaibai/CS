@@ -12,4 +12,4 @@
 
 [Linux内核](https://github.com/sansuitaibai/CS/tree/main/Linux%20%E5%86%85%E6%A0%B8)
 
-[数据库](https://book.douban.com/subject/35231266/)
+[数据库](https://github.com/sansuitaibai/CS/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93)
