@@ -2,7 +2,7 @@
 
 主要对[尚硅谷的MYSQL视频](https://www.bilibili.com/video/BV1iq4y1u7vj/?spm_id_from=333.337.search-card.all.click&vd_source=9851bd0835747a55fe320a437e4fd0a9) ,  [《 MYSQL 是怎样运行 》](https://book.douban.com/subject/35231266/) 和 [小林coding](https://xiaolincoding.com/mysql/) 博客文章的学习 ，记录  ， 摘要 。视频为辅， 书籍为主。
 
-
+[笔记可能需要的工具](https://www.mindmanager.com/en/pages/mind-mapping-b6/?x-source=ppc&gclid=CjwKCAjwtKmaBhBMEiwAyINuwONwrNDIw_O_-MwCOjO5Ef0CUssebtf21H22Po9rguKAC07A3ZSrLRoC0jAQAvD_BwE)
 
 # 章节：
 

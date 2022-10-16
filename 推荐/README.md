@@ -22,7 +22,11 @@
 
 
 
+## 工具
 
+[mindmanager 思维导图](https://www.mindmanager.com/en/pages/mind-mapping-b6/?x-source=ppc&gclid=CjwKCAjwtKmaBhBMEiwAyINuwONwrNDIw_O_-MwCOjO5Ef0CUssebtf21H22Po9rguKAC07A3ZSrLRoC0jAQAvD_BwE)
+
+[draw.io在线绘图工具](https://app.diagrams.net/)
 
 # 其他：
 
